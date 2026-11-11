@@ -1,4 +1,4 @@
-# 🌸 Hello World! I'm a Software Engineer SAMAH BOUKHA
+# 🌸 Hello World! I'm a Software Engineer
 
 <div align="center">
 
